@@ -7,14 +7,16 @@
 <p align="middle">  📫 How to reach me: jenagansivakumar@gmail.com
 <p align="middle">  💬 Pronouns: He/Him
 
+<p align="middle"> 
   
-  <p align="left">
+  <img src="https://media.giphy.com/media/mtzCPgXqC9GEg/giphy.gif" width="300">
+<p align="middle"> 
 Front-End
-<p align="left">
+<p align="middle">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> 
-
+<p align="middle"> 
 Tools
-<p align="left">
+<p align="middle">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>  
 &nbsp; 
 

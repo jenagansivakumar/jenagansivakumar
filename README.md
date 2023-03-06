@@ -1,12 +1,15 @@
-### Hi there 👋
+<p align="middle"> Hi there 👋
 
-My name is Jena and I am starting my Full Stack Development course at Spiced Academy.
+<p align="middle"> My name is Jena and I am starting my Full Stack Development course at Spiced Academy.
 
-### 🚧 I’m currently working on my GitHub Profile
-### I’m currently learning JavaScript
-### 📫 How to reach me: jenagansivakumar@gmail.com
-### 😄 Pronouns: He/Him
+<p align="middle">  🚧 I’m currently working on my GitHub Profile
+<p align="middle">  📖 I’m currently learning JavaScript
+<p align="middle">  📫 How to reach me: jenagansivakumar@gmail.com
+<p align="middle">  💬 Pronouns: He/Him
 
+  
+  
+  <p align="left">
 Front-End
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> 

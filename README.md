@@ -1,4 +1,4 @@
-<p align="middle"> Hi there 👋
+<p align="middle">  <strong> <i> Hi there <i/> <strong/> 👋
 
 <p align="middle"> My name is Jena and I am starting my Full Stack Development course at Spiced Academy.
 
@@ -7,7 +7,6 @@
 <p align="middle">  📫 How to reach me: jenagansivakumar@gmail.com
 <p align="middle">  💬 Pronouns: He/Him
 
-  
   
   <p align="left">
 Front-End

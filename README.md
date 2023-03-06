@@ -1,4 +1,4 @@
-<p align="middle">  <strong> <i> Hi there <i/> <strong/> 👋
+<p align="middle">  <strong> <i> Hi there <i/> </strong> 👋
 
 <p align="middle"> My name is Jena and I am starting my Full Stack Development course at Spiced Academy.
 

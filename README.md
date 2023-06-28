@@ -10,9 +10,6 @@
   <em style="font-size: 36px; color: #ffff00; text-shadow: 0px 0px 10px #ff0000, 0px 0px 10px #00ffff;">💻 Full Stack Developer Extraordinaire 💻</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hpF9okrzkBOc3MYaM6/giphy.gif" width="400">
-</p>
 
 <p align="center">
   <em style="font-size: 48px; color: #ff00ff; text-shadow: 0px 0px 20px #ff00ff, 0px 0px 20px #00ffff, 0px 0px 20px #00ff00;">✨🎓 Recently graduated from Spiced Academy 🎓✨</em>

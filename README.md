@@ -1,19 +1,16 @@
 <p>
 
-Hi, I'm Jenagan Sivakumar. I'm a  full-stack web developer who's passionate about building user-friendly and interactive web applications.
-
-I specialise in HTML, CSS, JavaScript, React, Next.js, MongoDB, and APIs. I have worked on several projects that allowed me to apply my skills and learn new things.
-
-If you're looking for a talented and motivated full-stack web developer, I'd love to hear from you.
+Passionate about building secure, scalable applications with seamless user experiences. Skilled in Node.js, TypeScript, React, Go, MongoDB, Docker, Terraform, Ansible and AWS services. I specialise in designing cost-optimised, secure infrastructures and streamlining development through continuous integration, leveraging new technologies for efficient solutions.
 </p>
 
 
 <div class="tech-stack">
   <h2>Tech Stack</h2>
   <ul>
-    <li>React</li>
-    <li>Next.js</li>
-    <li>MongoDB</li>
+    <li> Backend </li>
+    <li>Go</li>
+    <li>Node.js</li>
+    <li>TypeScript</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>

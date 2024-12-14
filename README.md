@@ -7,12 +7,9 @@ Passionate about building secure, scalable applications with seamless user exper
 <div class="tech-stack">
   <h2>Tech Stack</h2>
   <ul>
-    <li> Backend </li>
     <li>Go</li>
     <li>Node.js</li>
     <li>TypeScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>React</li>
   </ul>
 </div>
